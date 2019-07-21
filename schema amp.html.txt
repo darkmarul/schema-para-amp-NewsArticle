@@ -1,0 +1,31 @@
+<script type="application/ld+json">{
+   "@context":"https://schema.org",
+   "@type":"NewsArticle",
+   "mainEntityOfPage":{
+      "@type":"WebPage",
+      "@id":"#url del articulo"
+   },
+   "headline":"Titulo Articulo",
+   "image":{
+      "@type":"ImageObject",
+      "url":"imagen del articulo"
+   },
+   "datePublished":"Fecha publicacion",
+   "dateModified":"Fecha de modificacion",
+   "author":{
+      "@type":"Person",
+      "name":"Nombre del Autor"
+   },
+   "publisher":{
+      "@type":"Organization",
+      "name":"Nombre de la web",
+      "logo":{
+         "@type":"ImageObject",
+         "url":"Logo de la web ",
+         "width":"600",
+         "height":"60"
+      }
+   },
+   "description":"Descripciond el articulo",
+   "keywords":"Palabras claves"
+}</script>
